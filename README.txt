@@ -14,4 +14,4 @@ pip install pygame
 pip install torch torchvision
 pip install matplotlib ipython
 
-Or something like that...
+Enjoy!
